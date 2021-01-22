@@ -6,3 +6,10 @@ h3 {
 .container {
   background-color: lightseagreen;
 }
+
+.box {
+  width: 18%;
+  border:solid rgb(59, 115, 179);
+  border-width: 1.75px;
+  margin-left: 10px;
+}
