@@ -14,6 +14,7 @@
 * _Visual Studio Code_
 * _JavaScript_
 * _jQuery_
+* _Dillinger_
 
 ## Description
 
