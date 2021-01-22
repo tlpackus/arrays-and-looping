@@ -20,11 +20,25 @@
 
 _This page was built so you could put in a number between 1-100 and click "Show Result!". Using JavaScript Arrays and Loops through methods and functions. Once clicked, the result should appear listing every number before your number (starting from "1"). This is unless the number contains a 1, 2, or 3. If the number has a 1 in it and doesn't include a 2 or 3, replace the number with "Beep!". If the number has a 2 in it and doesn't include a 3, replace the number with "Boop!". If the number has a 3 in it, replace the number with "Won't you be my neighbor?". If your result follows that criteria then it's doing it's job. give it a try._
 
-## Setup/Installation Requirements
+## Installation Requirements
+- Requires Visual Studio Code Installation
+- Requires Terminal Installation
+- Requires "Live Server" Extension in VSCode
+- Requires Google Chrome
 
-* _This is a great place_
-* _to list setup instructions_
-
+## Setup
+- Click Code at the top right of the repository
+- Copy that url
+- Make a new directory in Terminal by typing "mkdir (your-directory-name)"
+- Change into that directory by entering "cd (your-directory-name) "
+- Clone the url into that directory using "git clone (url)"
+- Change into that cloned directory by entering "cd (cloned-directory-name) "
+- Once in VSCode 
+- Type code . in terminal to open in VSCode
+- Make sure you're in the the index.html file
+- Right click
+- Select "Open with Live Server"
+- There you can check out my Portfolio
 ## Known Bugs
 
 * _Still have code to add but no bugs yet_
