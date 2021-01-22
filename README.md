@@ -1,6 +1,6 @@
 # _Arrays and Looping Project/ Practice_
 
-#### _-short description-_
+#### _-This Project was meant to demonstrate my knowledge of Arrays and Looping.-_
 
 #### By _**Theron Packus**_
 
