@@ -33,12 +33,14 @@ _This page was built so you could put in a number between 1-100 and click "Show 
 - Change into that directory by entering "cd (your-directory-name) "
 - Clone the url into that directory using "git clone (url)"
 - Change into that cloned directory by entering "cd (cloned-directory-name) "
-- Once in VSCode 
 - Type code . in terminal to open in VSCode
-- Make sure you're in the the index.html file
-- Right click
-- Select "Open with Live Server"
-- There you can check out my Portfolio
+- Once in VSCode under make sure the explorer tap on the top left hand side of the window is selected
+- Under "ARRAYS-AND-LOOPING" left click on index.html file
+- Right click in the index HTML script
+- Select "Open with Live Server" option
+- This will open a Google Chrome Browser
+- There you can see my Portfolio
+
 ## Known Bugs
 
 * _Still have code to add but no bugs yet_
