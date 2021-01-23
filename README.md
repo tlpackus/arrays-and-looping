@@ -18,7 +18,7 @@
 
 ## Description
 
-_This page was built so you could put in a number between 1-100 and click "Show Result!". Using JavaScript Arrays and Loops through methods and functions. Once clicked, the result should appear listing every number before your number (starting from "1"). This is unless the number contains a 1, 2, or 3. If the number has a 1 in it and doesn't include a 2 or 3, replace the number with "Beep!". If the number has a 2 in it and doesn't include a 3, replace the number with "Boop!". If the number has a 3 in it, replace the number with "Won't you be my neighbor?". If your result follows that criteria then it's doing it's job. give it a try._
+_This page was built so you could put in a whole number between 1-100 and at the click of "Show Result!" a sophisticated result should appear. Using JavaScript Arrays and Loops through methods and functions. Once clicked, the result should include every number before your number (starting from "1"). This is unless the number contains a 1, 2, or 3. If the number has a 1 in it and doesn't include a 2 or 3, replace the number with "Beep!". If the number has a 2 in it and doesn't include a 3, replace the number with "Boop!". If the number has a 3 in it, replace the number with "Won't you be my neighbor?". If your result follows that criteria then it's doing it's job. Give it a try by acquiring the Installation Requirements and following the Setup instructions below_
 
 ## Installation Requirements
 - Requires Visual Studio Code Installation

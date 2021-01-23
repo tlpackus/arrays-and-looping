@@ -6,3 +6,11 @@ h3 {
 .container {
   background-color: lightseagreen;
 }
+
+.btn {
+  display: block;
+}
+
+#your-result {
+  display: none;
+}
