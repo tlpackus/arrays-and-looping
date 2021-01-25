@@ -29,17 +29,17 @@ _This page was built so you could put in a whole number between 1-100 and at the
 ## Setup
 - Click Code at the top right of the repository
 - Copy that url
-- Make a new directory in Terminal by typing "mkdir (your-directory-name)"
-- Change into that directory by entering "cd (your-directory-name) "
-- Clone the url into that directory using "git clone (url)"
-- Change into that cloned directory by entering "cd (cloned-directory-name) "
+- Make a new directory in Terminal by typing "mkdir view-a-and-r"
+- Change into that directory by entering "cd view-a-and-r "
+- Clone the url into that directory using "git clone (paste url from repository)"
+- Change into that cloned directory by entering "cd view-a-and-r"
 - Type code . in terminal to open in VSCode
 - Once in VSCode under make sure the explorer tap on the top left hand side of the window is selected
 - Under "ARRAYS-AND-LOOPING" left click on index.html file
 - Right click in the index HTML script
 - Select "Open with Live Server" option
 - This will open a Google Chrome Browser
-- There you can see my Portfolio
+- There you can see my webpage
 
 ## Known Bugs
 
